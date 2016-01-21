@@ -1,0 +1,6 @@
+C:\Users\mrhan\OneDrive\PROG\Visual C#\ID3 tree\ID3 tree\bin\Debug\ID3 tree.exe.config
+C:\Users\mrhan\OneDrive\PROG\Visual C#\ID3 tree\ID3 tree\bin\Debug\ID3 tree.exe
+C:\Users\mrhan\OneDrive\PROG\Visual C#\ID3 tree\ID3 tree\bin\Debug\ID3 tree.pdb
+C:\Users\mrhan\OneDrive\PROG\Visual C#\ID3 tree\ID3 tree\obj\Debug\ID3 tree.csprojResolveAssemblyReference.cache
+C:\Users\mrhan\OneDrive\PROG\Visual C#\ID3 tree\ID3 tree\obj\Debug\ID3 tree.exe
+C:\Users\mrhan\OneDrive\PROG\Visual C#\ID3 tree\ID3 tree\obj\Debug\ID3 tree.pdb
