@@ -1,0 +1,9 @@
+|age|
+	<ADULT>
+	|True|
+	<CHILD>
+	|act|
+		<DIP>
+		|False|
+		<STRETCH>
+		|True|
